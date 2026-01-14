@@ -1,6 +1,6 @@
 Algoritmo "Exercicio3"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+// Professor   : OSVALDO PROSPER OREB
 // Descrição   : fornecesse o percentual de aumento a ser aplicado.
 // Autor(a)    : Adriano
 // Data atual  : 14/01/2026
