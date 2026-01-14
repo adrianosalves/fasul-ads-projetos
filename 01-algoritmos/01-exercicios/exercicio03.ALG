@@ -1,5 +1,6 @@
 Algoritmo "Exercicio3"
 // Disciplina   : [Linguagem e Lógica de Programação]
+// Nivel: Representação Gráfica e Textual de Algoritmos
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : fornecesse o percentual de aumento a ser aplicado.
 // Autor(a)    : Adriano
