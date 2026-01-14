@@ -2,7 +2,7 @@ Algoritmo "Exercicio13"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Nivel: Estrutura Condicional Encadeada,
 // Professor   : OSVALDO PROSPER OREB
-// Descrição   : Acrescentando uma variável acumuladora
+// Descrição   : Acrescentando uma variável acumuladora.
 // Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
 Var
