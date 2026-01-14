@@ -1,24 +1,17 @@
-Algoritmo "Exercicio01"
-// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
+Algoritmo "Exercicio3"
+// Disciplina  : [Linguagem e LÛgica de ProgramaÁ„o]
 // Professor   : OSVALDO PROSPER OREB
-// Descri√ß√£o   :  Calcula o valor salarial acrescido de um aumento de 50%. 
-// Autor(a)    : Adriano Alves
-// Data atual  : 13/01/2026
-
-// O algoritmo l√™ um sal√°rio armazenado na vari√°vel SALARIO e aumenta seu valor em 50%. 
-// Para isso, soma ao sal√°rio original o valor de SALARIO * 0.5 (equivalente a 50% do sal√°rio).
-// Importante: No Portugol, use ponto (.) como separador decimal ‚Äî ou seja, escreva 0.5, e n√£o 0,5.
-
+// DescriÁ„o   : Permite calcular percentual de acrescimos ao Salario
+// Data atual  : 14/01/2026
 Var
-// Se√ß√£o de Declara√ß√µes das vari√°veis 
+// SeÁ„o de DeclaraÁıes das vari·veis
 SALARIO, NOVOSAL: REAL
 
 Inicio
-// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc... 
+// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
 LEIA (SALARIO)
+LEIA (PERCENTUAL)
 NOVOSAL<-SALARIO + SALARIO * 0.5
 ESCREVAL (NOVOSAL)
 
 Fimalgoritmo
-
-
