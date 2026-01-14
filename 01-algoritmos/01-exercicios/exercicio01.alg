@@ -1,8 +1,10 @@
-Algoritmo "Exercicio3"
+Algoritmo "Exercicio1"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Permite calcular percentual de acrescimos ao Salario
+// Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
+
 Var
 // Seção de Declarações das variáveis
 SALARIO, NOVOSAL: REAL

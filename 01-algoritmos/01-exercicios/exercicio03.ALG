@@ -1,8 +1,8 @@
 Algoritmo "Exercicio3"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Permitisse que o usuário fornecesse o percentual de aumento a ser aplicado.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : fornecesse o percentual de aumento a ser aplicado.
+// Autor(a)    : Adriano
 // Data atual  : 14/01/2026
 Var
 // Seção de Declarações das variáveis 
