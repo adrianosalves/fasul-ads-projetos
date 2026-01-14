@@ -1,7 +1,7 @@
 Algoritmo "Exercicio2"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : OSVALDO PROSPER OREB
-// Descrição   : Um valor de salario multiplicá-la por uma vez e meia.
+// Descrição   : Um valor de salario multiplicá-la por uma vez e meia!
 // Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
 
