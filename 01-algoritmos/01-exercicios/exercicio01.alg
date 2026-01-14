@@ -1,7 +1,7 @@
 Algoritmo "Exercicio1"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : OSVALDO PROSPER OREB
-// Descrição   : Permite calcular percentual de acrescimos ao Salario
+// Descrição   : Permite calcular percentual de acrescimos ao Salario!
 // Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
 
