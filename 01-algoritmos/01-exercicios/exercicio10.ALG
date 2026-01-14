@@ -1,10 +1,10 @@
 Algoritmo "Exercicio10"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Nivel: Operações Condicionais
+// Nivel: Estruturas Condicionais SE: Operações Condicionais
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Colocar dois números em ordem crescente
 // contendo uma cópia parcial de FRASE
-// Autor(a)    : Adriano
+// Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
 Var
 // Seção de Declarações das variáveis
