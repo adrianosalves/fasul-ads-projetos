@@ -12,7 +12,7 @@ SALARIO, NOVOSAL: REAL
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 LEIA (SALARIO)
-NOVOSAL<-SALARIO + SALARIO * PERCENTUAL
+NOVOSAL<-SALARIO + SALARIO * 0.5
 ESCREVAL (NOVOSAL)
 
 Fimalgoritmo
