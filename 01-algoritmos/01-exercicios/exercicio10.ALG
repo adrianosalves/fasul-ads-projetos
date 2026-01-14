@@ -1,23 +1,37 @@
 Algoritmo "Exercicio10"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Nivel: Estruturas Condicionais SE: Operações Condicionais
+// Nivel: Conceitos de Estruturas Condicionais se Encadeadas
 // Professor   : OSVALDO PROSPER OREB
-// Descrição   : Colocar dois números em ordem crescente
-// contendo uma cópia parcial de FRASE
+// Descrição   : Vamos testar o algoritmo a lógica desenvolvida.
 // Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
 Var
 // Seção de Declarações das variáveis
-A, B: INTEIRO
+A, B, C: INTEIRO
 
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-LEIA(A, B)
-        SE A > B ENTÃO
-           ESCREVA (B, A)
-        SENÃO
-           ESCREVA (A, B)
-        FIMSE
-
+LEIA (A, B, C)
+SE A < B ENTÃO
+	SE B < C ENTÃO
+		ESCREVA (A, B, C)
+	SENÃO
+		SE C < A ENTÃO
+			ESCREVA (C, A, B)
+		SENÃO
+			ESCREVA (A, C, B)
+		FIMSE
+	    FIMSE
+	SENÃO
+		SE A < C ENTÃO
+			ESCREVA (B, A, C)
+		SENÃO
+			SE C < B ENTÃO
+				ESCREVA (C, B, A)
+			SENÃO
+				ESCREVA (B, C, A)
+			FIMSE
+		FIMSE
+	FIMSE
 Fimalgoritmo
