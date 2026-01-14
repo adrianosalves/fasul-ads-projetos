@@ -9,8 +9,8 @@ Este repositório contém exercícios e projetos desenvolvidos na disciplina do 
 - Funções
 
 ## 🚀 Como executar
-- Instale o https://portugol.dev/
-- Abra o arquivo `.por` e execute
+- Instale o https://github.com/adrianosalves/fasul-ads-projetos/blob/main/VISUALG_3.0.7/visualg3.0.7.rar
+- Abra o arquivo `.alg` e execute
 
 ## 📂 Estrutura
 - `/exercicios` → Exercícios propostos
