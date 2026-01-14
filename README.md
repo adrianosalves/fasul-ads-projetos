@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório principal! Aqui você encontrará minha evolução ao longo do curso de ADS na FASUL, com exercícios, projetos e desafios organizados por disciplina.
 
 ## 📚 Disciplinas e Repositórios
-- [https://github.com/adrianosalves/algoritmos](https://github.com/adrianosalves/fasul-ads-projetos/tree/main/01-algoritmos
+- https://github.com/adrianosalves/fasul-ads-projetos/tree/main/01-algoritmos
 - https://github.com/adrianosalves/logica-programacao-portugol
 - https://github.com/adrianosalves/estrutura-de-dados
 - https://github.com/adrianosalves/poo-java
