@@ -1,6 +1,6 @@
 Algoritmo "Exercicio13"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Nivel: Estrutura Condicional Encadeada,
+// Nivel: Estrutura Condicional Encadeada, Repetição Interativa com Teste no Início do Laço
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Acrescentando uma variável acumuladora.
 // Autor(a)    : Adriano Alves
