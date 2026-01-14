@@ -3,7 +3,7 @@ Algoritmo "Exercicio8"
 // Nivel: Funções e Operações de Caracteres
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Copia(FRASE, INICIO, TAMANHO) retorna uma cadeia de caracteres
-// contendo uma cópia parcial de FRASE
+// contendo uma cópia parcial de FRASE.
 // Autor(a)    : Adriano
 // Data atual  : 14/01/2026
 Var
