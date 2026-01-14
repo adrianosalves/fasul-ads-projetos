@@ -1,6 +1,6 @@
 Algoritmo "Exercicio14"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Nivel: Estrutura Condicional Encadeada, Repetição Iterativa
+// Nivel: Estrutura Condicional Encadeada, Repetição Interativa
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : REPITA ATÉ só testa se o fluxo de instruções
 // será percorrido após tê-lo executado
