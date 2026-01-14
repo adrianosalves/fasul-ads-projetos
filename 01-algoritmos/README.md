@@ -13,6 +13,6 @@ Este repositório contém exercícios e projetos desenvolvidos na disciplina do 
 - Abra o arquivo `.alg` e execute
 
 ## 📂 Estrutura
-- `/exercicios` → Exercícios propostos
-- `/desafios` → Desafios extras
-- `/projetos` → Projetos maiores
+- `/01-exercicios` → Exercícios propostos
+- `/02-desafios` → Desafios extras
+- `/03-projetos` → Projetos maiores
