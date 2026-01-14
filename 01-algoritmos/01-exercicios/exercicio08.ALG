@@ -4,7 +4,7 @@ Algoritmo "Exercicio8"
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Copia(FRASE, INICIO, TAMANHO) retorna uma cadeia de caracteres
 // contendo uma cópia parcial de FRASE.
-// Autor(a)    : Adriano
+// Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
 Var
 // Seção de Declarações das variáveis
