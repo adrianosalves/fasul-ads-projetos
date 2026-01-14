@@ -1,5 +1,6 @@
 Algoritmo "Exercicio2"
 // Disciplina  : [Linguagem e Lógica de Programação]
+// Nivel: Representação Gráfica e Textual de Algoritmos
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Um valor de salario multiplicá-la por uma vez e meia!
 // Autor(a)    : Adriano Alves
