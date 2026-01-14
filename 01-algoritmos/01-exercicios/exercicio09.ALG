@@ -3,7 +3,6 @@ Algoritmo "Exercicio9"
 // Nivel: Operações Condicionais
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Colocar dois números em ordem crescente
-// contendo uma cópia parcial de FRASE
 // Autor(a)    : Adriano
 // Data atual  : 14/01/2026
 Var
