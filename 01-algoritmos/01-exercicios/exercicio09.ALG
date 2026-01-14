@@ -1,9 +1,9 @@
 Algoritmo "Exercicio9"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Nivel: Operações Condicionais
+// Nivel: Estruturas Condicionais SE: Operações Condicionais
 // Professor   : OSVALDO PROSPER OREB
 // Descrição   : Colocar dois números em ordem crescente
-// Autor(a)    : Adriano
+// Autor(a)    : Adriano Alves
 // Data atual  : 14/01/2026
 Var
 // Seção de Declarações das variáveis
