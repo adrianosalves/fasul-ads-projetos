@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!-- Incluindo JavaScript em página HTML --> 
+
+<!-- 1ª Forma abaixo: -->
+<script>
+    // aqui fica a codificação JavaScript
+
+
+
+
+</script>
+
+<!-- 2ª Forma abaixo: -->
+<scritp src="meu_script.js"></scritp>
+
+<!-- 
+
+Qual é melhor forma? 
+- Somente seu codigo em javascript for muito extenso crie arquivo separado.
+- se for blocos pequenos pode ficar dentro da mesma pagina.
+- podemos fazer quantos bloco de codigo for necessário usar as tags ou importar o arquivo externos do javascript.
+- Nas versões 4.0 do HTML faziamos referencia com o atributo "type=txt/javascript", a partir da versão 5.0 não é mais necessário.
+- Outro detalhe em alguns casos encontre a tag "script=language" aponto o valor a string javascript, isso não é mais suportado e pode gerar um erro na aplicação.
+
+
+
+
+
+
+</html>
